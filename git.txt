@@ -1,0 +1,24 @@
+	Git initialization 
+
+        git init <repo_name>
+
+        cd <repo_name>
+
+	To check git status 
+
+        git status 
+
+	Create and edit one or more file which you want git to track: 
+
+nano <file_name>
+
+	Add file to git staging area:
+
+       git add <file_name> 
+
+	Commit to local repo: 
+
+       git commit -m "<message of your choice>"
+
+token: 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
+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
